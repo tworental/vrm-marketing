@@ -1,0 +1,57 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1963 439">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke-width: 3px;
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-2, .cls-3 {
+        isolation: isolate;
+        font-size: 16px;
+        fill: #3d4a58;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-4 {
+        stroke: #c2d4e1;
+        stroke-dasharray: 4 8;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        stroke: #2e3192;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="981.5" y1="717.938" x2="981.5" y2="330.031" gradientTransform="translate(0 -328)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e3192"/>
+      <stop offset="1" stop-color="#00bee8"/>
+    </linearGradient>
+  </defs>
+  <title>Artboard 1</title>
+  <path id="line" class="cls-1" d="M1.5,373.03c29.414-11.795,62.214-23.679,95-35,23.062-7.962,48.931-16.541,81-10,21.985,4.485,35.731,14.486,58,27,14.842,8.339,30.68,16.554,42,21,32.249,12.667,78.3,19.556,141,8,52.309-9.641,95.959-34.44,135-46,26.6-7.875,71.741-14.6,116-18,35.281-2.711,74.64-2.625,117,0,53.9,3.34,94,14.78,148,14,77.06-1.115,136.22-15.9,183-37,60.86-27.456,90.6-62.507,150-93a677.753,677.753,0,0,1,90-38c49.28-16.882,93.94-26.657,132-30,33.68-2.956,60.77-1.568,95,1,79.72,5.982,138.38,9.667,187-9,44.15-16.953,87.32-48.039,113-77,5.42-6.114,27.78-29.281,54-41a142.667,142.667,0,0,1,23-8"/>
+  <text class="cls-2" transform="translate(1100.075 256.649)">+7%</text>
+  <text class="cls-2" transform="translate(485.714 401.293)">Olympic Games</text>
+  <text class="cls-3" transform="translate(485.937 425.292)">-12%</text>
+  <path id="Shape_902_copy_2" data-name="Shape 902 copy 2" class="cls-4" d="M1537.5,137.039v70"/>
+  <text class="cls-2" transform="translate(1553.359 193.331)">Post season bad weather</text>
+  <path class="cls-4" d="M471.5,369.03v70"/>
+  <path id="Shape_902_copy" data-name="Shape 902 copy" class="cls-4" d="M1088.5,243.035v70"/>
+  <circle class="cls-5" cx="472" cy="368.531" r="6.5"/>
+  <circle id="Ellipse_901_copy" data-name="Ellipse 901 copy" class="cls-5" cx="1089" cy="308.531" r="6.5"/>
+  <circle id="Ellipse_901_copy_2" data-name="Ellipse 901 copy 2" class="cls-5" cx="1538" cy="134.531" r="6.5"/>
+</svg>
